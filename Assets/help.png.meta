@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 182ff0100482b024c89711d91336e6de
+guid: 5b87fad2c7740e74bb5089745dcd6831
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7269209691970869998
-    second: snapedit_1753381820163_0
+      213: 3059929991795831455
+    second: help_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: snapedit_1753381820163_0
+      name: help_0
       rect:
         serializedVersion: 2
-        x: 203
-        y: 37
-        width: 414
-        height: 456
+        x: 0
+        y: 0
+        width: 700
+        height: 124
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 215ef309c449e1b90800000000000000
-      internalID: -7269209691970869998
+      spriteID: f92fd868d1e077a20800000000000000
+      internalID: 3059929991795831455
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      snapedit_1753381820163_0: -7269209691970869998
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
